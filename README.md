@@ -1,4 +1,5 @@
 Consumer Behavior in Fashion Retail (Zara Analysis) 👗📊
+
 Este proyecto analiza el comportamiento de los consumidores y el rendimiento de los productos utilizando un dataset de Zara. A través de este análisis, se buscan patrones de compra y tendencias en el sector retail.
 
 📝 Resumen del Proyecto
